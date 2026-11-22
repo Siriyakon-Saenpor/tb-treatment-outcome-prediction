@@ -11,7 +11,7 @@ Binary classification of pulmonary TB treatment outcome, following WHO outcome d
 - **Class 1 (unsuccessful):** died, lost to follow-up, diagnosis changed (not evaluated), treatment failed, RR/MDR before the fifth month
 
 ## Data (not included)
-25,239 patient treatment records from the Office of Disease Control 1, Chiang Mai. The dataset contains sensitive health information and is **not included** in this repository. [Add: how access was obtained and who to contact.]
+25,239 patient treatment records from the Office of Disease Control 1, Chiang Mai. The dataset contains sensitive health information and is **not included** in this repository. The data were provided to the research team by the project supervisor. The data owner is the Office of Disease Control 1, Chiang Mai. The data are not publicly available and are not included in this repository.
 
 Input variables (17): gender, BMI, age, HIV status, chronic kidney disease, liver disease, antiretroviral therapy, diabetes mellitus, co-trimoxazole treatment, chronic obstructive pulmonary disease, ICD-10 disease group, patient registration type, TB follow-up status, TB cohort, first-month AFB result, site of tuberculosis, treatment duration.
 
